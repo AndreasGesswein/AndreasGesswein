@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreasGesswein location: Bremen, Germany
-- 👀 I’m interested in WebDevelopmentg(with angular) and Unity game development(c#)
+- 👀 I’m interested in WebDevelopment(with angular) and UnityGameDevelopment(c#)
 - 🌱 I’m currently learning how to make games with Unity
 - 💞️ I’m looking to collaborate on ... ? :)
 - 📫 How to reach me andreasgesswein1@gmail.com
