@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreasGesswein
-- 👀 I’m interested in WebDeveloping(mostly with angular), Unity
-- 🌱 I’m currently learning Unity game development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in WebDeveloping(mostly with angular), Unity game development
+- 🌱 I’m currently learning how to make games with Unity
+- 💞️ I’m looking to collaborate on ... ? :)
 - 📫 How to reach me andreasgesswein@gmail.com
 
 <!---
