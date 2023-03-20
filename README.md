@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreasGesswein location: Bremen, Germany
 - 👀 I’m interested in Web/APPDevelopment, UnityGameDevelopment(c#) or QA Devoloper
-- 🌱 I’m currently improving my skills with Unity
+- 🌱 I’m currently improving my skills
 - 💞️ I’m looking to collaborate on ... ? :)
 - 📫 How to reach me andreasgesswein1@gmail.com
 
